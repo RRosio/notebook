@@ -113,7 +113,7 @@ for more information.
         'argon2-cffi',
         'traitlets>=4.2.1',
         'jupyter_core>=4.6.1',
-        'jupyter_client>=5.3.4',
+        'jupyter_client>=5.3.4,<8.0',
         'ipython_genutils',
         'nbformat',
         'nbconvert>=5',
